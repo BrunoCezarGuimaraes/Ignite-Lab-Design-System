@@ -9,6 +9,6 @@ Esse projeto é do evento da Ignite Lab, da rocketseat onde o objetivo é desenv
 - phosphor
 - React
 
-# Link pro Behance
+# Link para o Behance
 
 https://www.behance.net/gallery/154793425/Ignite-Lab-Event-Figma-to-React
