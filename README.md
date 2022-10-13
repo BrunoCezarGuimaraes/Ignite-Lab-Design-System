@@ -8,3 +8,7 @@ Esse projeto é do evento da Ignite Lab, da rocketseat onde o objetivo é desenv
 - clsx
 - phosphor
 - React
+
+# Link pro Behance
+
+https://www.behance.net/gallery/154793425/Ignite-Lab-Event-Figma-to-React
